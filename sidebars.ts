@@ -28,6 +28,52 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
+      label: 'Chapter-by-Chapter',
+      collapsed: true,
+      items: [
+        'chapters/index',
+        {
+          type: 'category',
+          label: 'Book I: The Parents',
+          collapsed: true,
+          items: [
+            'chapters/book-1-chapter-1',
+            'chapters/book-1-chapter-2',
+            'chapters/book-1-chapter-3',
+            'chapters/book-1-chapter-4',
+            'chapters/book-1-chapter-5',
+            'chapters/book-1-chapter-6',
+            'chapters/book-1-chapter-7',
+            'chapters/book-1-chapter-8',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Book II: The Children',
+          collapsed: true,
+          items: [
+            'chapters/book-2-chapter-1',
+            'chapters/book-2-chapter-2',
+            'chapters/book-2-chapter-3',
+            'chapters/book-2-chapter-4',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Book III: Shaun',
+          collapsed: true,
+          items: [
+            'chapters/book-3-chapter-1',
+            'chapters/book-3-chapter-2',
+            'chapters/book-3-chapter-3',
+            'chapters/book-3-chapter-4',
+          ],
+        },
+        'chapters/book-4',
+      ],
+    },
+    {
+      type: 'category',
       label: 'Reference',
       collapsed: true,
       items: [

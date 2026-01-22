@@ -50,10 +50,10 @@ const FeatureList: FeatureItem[] = [
     link: '/docs/getting-started/introduction',
   },
   {
-    title: 'Reading Guides',
-    emoji: '🗺️',
-    description: 'Explore the structure, themes, and language of Finnegans Wake with detailed guides on characters, motifs, and interpretive approaches.',
-    link: '/docs/guides/reading-strategies',
+    title: 'Chapter-by-Chapter',
+    emoji: '📚',
+    description: 'Detailed guides to all 17 chapters—synopses, key themes, notable passages, audio resources, and reading tips for each section.',
+    link: '/docs/chapters/',
   },
   {
     title: 'Annotations & Reference',
