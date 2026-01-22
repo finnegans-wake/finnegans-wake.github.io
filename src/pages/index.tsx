@@ -68,9 +68,9 @@ const FeatureList: FeatureItem[] = [
     link: '/docs/ecosystem/digital-archives',
   },
   {
-    title: 'Audio Resources',
+    title: 'Audio & Video',
     emoji: '🎧',
-    description: 'Listen to complete readings by Patrick Healy and Patrick Horgan, plus Waywords and Meansigns\' musical adaptations.',
+    description: 'Listen to complete readings, watch One Little Goat\'s video project, and explore 70+ hours of musical adaptations.',
     link: '/docs/ecosystem/audio',
   },
   {
@@ -121,19 +121,19 @@ const ResourceList: ResourceItem[] = [
     url: 'http://fweet.org/',
   },
   {
-    name: 'James Joyce Digital Archive',
-    description: 'Complete compositional history',
-    url: 'https://jjda.ie/',
+    name: 'Finwake.com',
+    description: 'Complete text with tooltips (finished Aug 2025)',
+    url: 'http://finwake.com/',
+  },
+  {
+    name: 'One Little Goat Theatre',
+    description: 'Video recordings with subtitles (2024-2029)',
+    url: 'https://www.onelittlegoat.org/finneganswake',
   },
   {
     name: 'Waywords and Meansigns',
     description: 'Full text set to music (70+ hours)',
     url: 'https://waywordsandmeansigns.com/',
-  },
-  {
-    name: 'Finwake.com',
-    description: 'Interactive annotated text',
-    url: 'http://finwake.com/',
   },
 ];
 

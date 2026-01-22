@@ -6,26 +6,105 @@ description: Current and ongoing Finnegans Wake scholarship
 
 # Scholarship
 
-*Finnegans Wake* scholarship continues to evolve 85+ years after publication.
+*Finnegans Wake* scholarship continues to evolve 85+ years after publication. 2024 marked a significant anniversary: the centenary of the first Wake excerpt's publication in the April 1924 *transatlantic review*.
+
+## Recent Publications (2024-2025)
+
+### Finnegans Wake: Human and Nonhuman Histories
+**Edinburgh University Press, 2024**
+Edited by Richard Barlow and Paul Fagan
+
+Twelve new essays by leading Joyce scholars exploring conjunctions between human and nonhuman in Joyce's final novel:
+- Fossil fuels, storms, water, bodily fluids
+- The Irish Revival, skin, wolves, mourning
+- Genes, memes, atoms, television, music
+- The Anthropocene and Joyce's working practices
+
+Praised as "fizzing with ideas" and "a revitalizing contribution to Wake studies."
+
+---
+
+### The Ecology of Finnegans Wake
+**University Press of Florida**
+By Alison Lacivita
+
+One of the first ecocritical explorations of Irish literature, revealing Joyce's consistent engagement with nature:
+- Irish landscape and meteorology
+- Urban planning and Dublin's ecology
+- Exploitation of nature
+- Fertility and reproduction
+
+Uses genetic criticism to trace how Joyce developed ecological themes across drafts.
+
+---
+
+### Finnegans Wakes: Tales of Translation
+**University of Toronto Press, 2023**
+By Patrick O'Neill
+
+Documents fifteen complete translations in twelve languages, with ten more announced:
+- Chinese, Polish, Japanese, French, German, Italian
+- Portuguese, Spanish, Dutch, Korean
+- Commentary on partial translations from thirty languages
+- Includes Turkish, Irish, Latin, and Ancient Egyptian
+
+---
+
+### Recent Art
+
+**Anselm Kiefer: Finnegans Wake** (White Cube, 2023-2024)
+Major exhibition catalogue documenting Kiefer's monumental exhibition treating Joycean language as a conduit for material experimentation.
+
+---
+
+## Upcoming Conferences
+
+### 30th International James Joyce Symposium
+**Krakow, Poland | June 15-19, 2026**
+**Theme:** "Doubles and Doubling"
+
+| Detail | Information |
+|--------|-------------|
+| Host | Jagiellonian University |
+| Keynote Speakers | Joshua Cohen (Pulitzer winner), Prof. Valérie Bénéjam, Prof. Julie Weng |
+| Proposal Deadline | February 2, 2026 |
+| Scholarships | Up to 10 for graduate students and early career researchers |
+
+**Submission:** Send 250-word abstract to ijjfkrakow2026@gmail.com
+
+---
+
+### James Joyce Italian Foundation Conference
+**Rome | February 5-6, 2026**
+**Theme:** "Joyce's World of Words"
+Celebrating Joyce's 144th birthday with keynotes by Declan Kiberd and Annalisa Volpone.
+
+---
+
+### Zurich James Joyce Foundation Workshop
+**Zurich | August 3-9, 2025**
+**Theme:** "Joycean Noise"
+Annual intensive workshop at Joyce's burial city.
+
+---
 
 ## Current State of the Field
 
-### The New Joyce Studies
+### Key Trends (2024-2026)
 
-A 2019 Cambridge collection (*The New Joyce Studies*, ed. Sean Latham) maps the current landscape:
+1. **Environmental/Ecocritical Approaches** — Growing body of work on Joyce and ecology
+2. **Human/Nonhuman Studies** — Animal studies, technology, posthumanism
+3. **Global Translation Studies** — New complete translations (Chinese 2025, Polish)
+4. **Digital Humanities** — AI, machine learning, computational text analysis
+5. **Performance Studies** — One Little Goat, Neal Kosaly-Meyer, Waywords
+6. **Accessibility Initiatives** — Making Joyce available to non-specialists
 
-- **Digital humanities** — Computational approaches to Joyce
-- **Genetic criticism** — Manuscript and draft analysis
-- **Global Joyce** — Reception and translation worldwide
-- **Environmental criticism** — Joyce and ecology
-- **Political readings** — Postcolonial and anti-imperialist Joyce
+### AI and Computational Approaches
 
-### Key Trends
-
-1. **Digitization** — Archives becoming accessible online
-2. **Interdisciplinary work** — Music, visual art, cognitive science
-3. **Global perspectives** — Moving beyond Anglo-American criticism
-4. **Accessibility** — Making Joyce available to non-specialists
+Recent work explores *Finnegans Wake* and artificial intelligence:
+- "Finnegans Wake in the Age of Thinking Machines" (2025) explores conceptual resonances between the Wake and AGI/ASI
+- Voyant Tools and other "distant reading" methods for structural analysis
+- Interactive video applications translating the text's hypertextuality
 
 ---
 
@@ -37,14 +116,12 @@ A 2019 Cambridge collection (*The New Joyce Studies*, ed. Sean Latham) maps the 
 **Focus:** All Joyce works
 **Access:** Subscription (JSTOR)
 
-The leading Joyce journal. Publishes articles, reviews, notes, and primary documents.
+The leading Joyce journal.
 
 ### Joyce Studies Annual
 **Publisher:** Fordham University Press
 **Focus:** Long-form essays
 **Access:** Subscription
-
-Annual collection of substantial scholarly essays.
 
 ### Genetic Joyce Studies
 **URL:** [geneticjoycestudies.org](http://geneticjoycestudies.org/)
@@ -54,120 +131,110 @@ Annual collection of substantial scholarly essays.
 Open-access journal specializing in compositional studies.
 
 ### Papers on Joyce
-**Focus:** Spanish and international Joyce scholarship
+**Focus:** Spanish and international scholarship
 **Access:** Open access
 
 ---
 
-## Research Centers
+## Research Centers & Organizations
+
+### Zurich James Joyce Foundation
+**[joycefoundation.ch](https://joycefoundation.ch/)**
+
+Based where Joyce is buried. Hosts reading groups, workshops, and lectures. Annual August workshop.
+
+### James Joyce Centre (Dublin)
+**[jamesjoyce.ie](https://jamesjoyce.ie/)**
+
+Regular Wake events including:
+- Spring Lecture Series (2025 featured John Dredge on FW)
+- Barry McGovern readings
+- Bloomsday Festival events
 
 ### University at Buffalo
-Home to the largest Joyce manuscript collection in the US. Active research programs in Joyce studies.
+Largest Joyce manuscript collection in the US.
 
 ### National Library of Ireland
-Partner institution for the James Joyce Digital Archive. Holdings include personal papers and photographs.
+Partner for James Joyce Digital Archive.
 
 ### Trinity College Dublin
-Hosts researchers and has produced significant digital humanities work on Joyce.
-
-### University College Dublin
-Joyce's alma mater. Continues Joyce scholarship and hosts events.
+Digital humanities research, including thesis work on digital genetic editions.
 
 ---
 
-## Major Scholarly Projects
+## Translation News
 
-### James Joyce Digital Archive (JJDA)
-**[jjda.ie](https://jjda.ie)**
+### Chinese (Complete, 2025)
+**Translator:** Congrong Dai
 
-Ongoing digitization and presentation of Joyce manuscripts. Primary resource for genetic criticism.
+Dai's complete Chinese translation landed in September 2025. Her earlier partial translation was a bestseller in China, selling out 8,000 copies and reaching #2 on Shanghai's bestseller list.
 
-### Genetic Joyce Studies
-Peer-reviewed scholarship on composition and manuscripts. Online since early 2000s.
+### Polish (Complete)
+**Translator:** Krzysztof Bartnicki
 
-### Digital Genetic Edition Projects
-Several projects work toward comprehensive digital editions:
-- TCD thesis on digital genetic edition of II.2 (Bayramova, 2022)
-- Ongoing work on machine-readable genetic texts
+Faithful to original layout, pagination, and Joyce's numerology—exactly 628 pages. Over ten years in translation.
+
+### Japanese Developments
+Kenji Hayakawa runs "Reading Finnegans Wake" (weekly Japanese livestream) and co-founded "Finnegans Web" (June 2025). His new translation of Chapter 2 published October 2025.
+
+---
+
+## Independent Scholarship
+
+The Wake welcomes non-academic scholars:
+
+- **FWEET** — Built by independent scholar Raphael Slepon
+- **Max Carol** (WashU) — Contributed ~2,000 annotations to FWEET
+- **Waywords and Meansigns** — Scholarly-creative collaboration
+- **One Little Goat Theatre** — Performance scholarship
+- **Reading groups** — Collective knowledge production
+
+### Contributing
+1. **Annotate** — Add to FWEET or similar projects
+2. **Write** — Submit to journals or online forums
+3. **Present** — Conferences welcome new scholars
+4. **Perform** — Audio, video, live performance
+5. **Translate** — Join ongoing translation projects
+
+---
+
+## Annual Events
+
+### Bloomsday Festival (June 11-16)
+**[bloomsdayfestival.ie](https://www.bloomsdayfestival.ie/)**
+
+Dublin's celebration includes Wake-specific events:
+- Finnegans Wakeshop
+- Roger Doyle's electro-acoustic compositions (2025)
+- Lectures at James Joyce Centre
+
+### Maybe Night (December 21)
+**[maybeday.net/night](https://www.maybeday.net/night/)**
+
+Winter solstice Wake celebration with panel discussions and community readings.
 
 ---
 
 ## Key Scholarly Debates
 
 ### Interpretation vs. Annotation
-How much should Wake scholarship interpret vs. simply identify allusions? McHugh famously provides minimal interpretation; Campbell offers maximal interpretation. The field continues to negotiate this tension.
+McHugh provides minimal interpretation; Campbell offers maximal interpretation. The field continues to negotiate this tension.
 
 ### The "Meaning" Question
-Does the Wake "mean" anything determinate? Positions range from:
 - **Strong determinism:** Every word has specific intended meaning
 - **Pluralism:** Multiple valid meanings coexist
 - **Anti-interpretation:** The experience matters more than meaning
 
 ### Authority of the Text
-Which text is authoritative?
 - The 1939 first edition has known errors
-- Joyce continued revising until his death
-- Corrected editions attempt to establish a critical text
-- Genetic critics argue the drafts are equally important
+- Joyce continued revising until death
+- Genetic critics argue drafts are equally important
 
-### Joyce's Politics
-Recent scholarship debates Joyce's politics:
-- Anti-colonial readings (Irish independence)
-- Socialist interpretations
-- Critiques of Joyce's gender politics
-- Environmentalist readings
-
----
-
-## Becoming a Wake Scholar
-
-### Graduate Study
-Major programs for Joyce studies:
-- University at Buffalo (strong manuscript access)
-- University College Dublin (Irish context)
-- Oxford, Cambridge (UK tradition)
-- Various European universities
-
-### Independent Scholarship
-The Wake welcomes non-academic scholars:
-- FWEET was built by an independent scholar
-- Reading groups produce original insights
-- Online communities share research
-- Waywords and Meansigns is a scholarly-creative project
-
-### Contributing
-Ways to contribute to Wake scholarship:
-1. **Annotate** — Add to FWEET or similar projects
-2. **Write** — Submit to journals or online forums
-3. **Present** — Joyce conferences welcome new scholars
-4. **Digitize** — Help with digital humanities projects
-5. **Teach** — Share knowledge in reading groups
-
----
-
-## Conferences & Events
-
-### International James Joyce Symposium
-Annual gathering of Joyce scholars worldwide. Rotates locations. Includes panels on all Joyce works including extensive Wake scholarship.
-
-### North American James Joyce Conference
-Annual conference in North America. Papers, panels, and events.
-
-### Bloomsday (June 16)
-Annual celebration of Joyce worldwide. Many events include Wake readings and discussions.
-
----
-
-## Open Questions
-
-Scholarship continues to investigate:
-
-- **Source identification** — What books did Joyce use?
-- **Notebook studies** — How did Joyce compose?
-- **Translation** — How to translate the untranslatable?
-- **Digital approaches** — What can computation reveal?
-- **Performance** — How should the Wake be read/performed?
-- **Accessibility** — How to introduce new readers?
+### Environmental Joyce
+Growing recognition of Joyce's engagement with:
+- Dublin's rivers and landscape
+- Urban ecology and planning
+- Human-nonhuman relations
 
 ---
 
@@ -175,24 +242,24 @@ Scholarship continues to investigate:
 
 ### Primary Sources
 - James Joyce Digital Archive ([jjda.ie](https://jjda.ie))
-- Buffalo collection (on-site)
+- Buffalo collection
 - British Library holdings
 - National Library of Ireland
 
 ### Secondary Sources
-- JSTOR (historical scholarship)
-- MLA Bibliography (comprehensive indexing)
-- Google Scholar (open access finding)
+- JSTOR
+- MLA Bibliography
+- Google Scholar
 
 ### Community
-- Joyce-l listserv (email discussion)
-- Twitter/X academic Joyce community
 - Conference networks
+- Reading groups
+- Online forums (Reddit, Twitter/X)
 
 ---
 
 ## See Also
 
-- [Bibliography](/docs/reference/bibliography) — Essential and recommended reading
+- [Bibliography](/docs/reference/bibliography) — Essential reading
 - [Digital Archives](/docs/ecosystem/digital-archives) — Manuscript access
 - [Tools](/docs/ecosystem/tools) — Research tools
