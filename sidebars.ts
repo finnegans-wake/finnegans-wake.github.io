@@ -20,6 +20,8 @@ const sidebars: SidebarsConfig = {
       items: [
         'guides/reading-strategies',
         'guides/joseph-campbell',
+        'guides/vico',
+        'guides/bruno',
         'guides/themes',
         'guides/structure',
         'guides/language',
@@ -103,6 +105,17 @@ const sidebars: SidebarsConfig = {
             'reference/motifs/river',
             'reference/motifs/cycle',
             'reference/motifs/crime',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Vocabulary',
+          collapsed: true,
+          items: [
+            'reference/vocabulary/index',
+            'reference/vocabulary/portmanteaus',
+            'reference/vocabulary/neologisms',
+            'reference/vocabulary/common-words',
           ],
         },
         'reference/annotations',
