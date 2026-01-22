@@ -6,7 +6,20 @@ description: The organization of Finnegans Wake
 
 # Structure
 
-*Finnegans Wake* has a deliberate, intricate structure based on Vico's cyclical theory of history.
+*Finnegans Wake* has a deliberate, intricate structure based on Vico's cyclical theory of history—a framework first systematically explored by Joseph Campbell and Henry Morton Robinson in *A Skeleton Key to Finnegans Wake* (1944).
+
+## The Campbell-Robinson Framework
+
+Campbell and Robinson argued that the Wake is best interpreted through Giambattista Vico's *La Scienza Nuova* (1725). Vico proposed that history moves through recurring cycles:
+
+1. **Age of Gods** — Theocratic, ruled by religion and thunder
+2. **Age of Heroes** — Aristocratic, ruled by fathers and force
+3. **Age of Humans** — Democratic, ruled by reason and law
+4. **Ricorso** — Dissolution and return to the beginning
+
+Joyce built the Wake's four-part structure on this model. The ten "thunderwords" (hundred-letter portmanteau words) scattered through the book mark transitions between ages—echoing Vico's claim that thunderclaps announced each era.
+
+For more on Campbell's approach, see the [Joseph Campbell & Finnegans Wake](/docs/guides/joseph-campbell) guide.
 
 ## Overview
 

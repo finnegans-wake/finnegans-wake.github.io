@@ -160,6 +160,39 @@ Joyce himself recorded the "Anna Livia Plurabelle" section in 1929. This is the 
 
 ---
 
+## Joseph Campbell's Joyce Lectures
+
+Campbell recorded extensive lectures on Joyce, providing crucial context for understanding the Wake.
+
+### The Mythic Novels of James Joyce (Esalen, 1983)
+**[Joseph Campbell Foundation](https://www.jcf.org/product-page/collected-audio-series-iii-volume-i-the-mythic-novels-of-james-joyce)**
+
+| Detail | Information |
+|--------|-------------|
+| Location | Esalen Institute, Big Sur, California |
+| Duration | 7+ hours (6 lectures) |
+| Content | *Portrait*, *Ulysses*, and *Finnegans Wake* |
+| Purchase | JCF.org (tax-deductible) |
+
+Campbell covers the Vico cycle, character archetypes, and the mythological dimensions of Joyce's work.
+
+### 1951 James Joyce Society Lecture
+**Folkways Records**
+
+| Detail | Information |
+|--------|-------------|
+| Date | October 23, 1951 |
+| Location | Gotham Book Mart, NYC |
+| Content | Campbell commentary + Wake readings + Joyce's ALP recording |
+| Access | Internet Archive (FLAC), [Discogs](https://www.discogs.com/release/6551329-Joseph-Campbell-2-James-Joyce-Meeting-Of-The-Joyce-Society-At-The-Gotham-Book-Mart-October-23rd-1951) (vinyl) |
+
+### Pathways with Joseph Campbell
+**[Spotify](https://open.spotify.com/show/6riuCXbAHE7WZeWL4ye6I0)** — Free podcast from JCF with Campbell lectures and commentary.
+
+For comprehensive Campbell resources, see the dedicated [Joseph Campbell & Finnegans Wake](/docs/guides/joseph-campbell) guide.
+
+---
+
 ## Podcasts
 
 ### WAKE: Cold Reading Finnegans Wake

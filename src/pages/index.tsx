@@ -62,10 +62,10 @@ const FeatureList: FeatureItem[] = [
     link: '/docs/reference/annotations',
   },
   {
-    title: 'Digital Archives',
-    emoji: '🏛️',
-    description: 'Discover the James Joyce Digital Archive, genetic editions, and manuscript resources that reveal Joyce\'s compositional process.',
-    link: '/docs/ecosystem/digital-archives',
+    title: 'Joseph Campbell',
+    emoji: '🗝️',
+    description: 'Explore Campbell\'s lifelong engagement with Joyce—from A Skeleton Key to his Esalen lectures—and the monomyth he borrowed from the Wake.',
+    link: '/docs/guides/joseph-campbell',
   },
   {
     title: 'Audio & Video',

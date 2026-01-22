@@ -54,8 +54,21 @@ Free podcast companion on Apple, Spotify, Amazon, YouTube.
 | Title | Author | Year | Description |
 |-------|--------|------|-------------|
 | *Annotations to Finnegans Wake* | Roland McHugh | 1980/2016 | Line-by-line annotations matching Viking/Penguin page layout |
-| *A Skeleton Key to Finnegans Wake* | Joseph Campbell & Henry Morton Robinson | 1944/2013 | First comprehensive guide; chapter summaries |
+| *A Skeleton Key to Finnegans Wake* | Joseph Campbell & Henry Morton Robinson | 1944/2013 | First comprehensive guide; chapter summaries; Vico framework |
 | *A Reader's Guide to Finnegans Wake* | William York Tindall | 1969 | Accessible introduction; chapter commentary |
+| *Mythic Worlds, Modern Words* | Joseph Campbell (ed. E.L. Epstein) | 2004 | Campbell's collected Joyce writings and lectures |
+
+### Joseph Campbell Audio Lectures
+
+Campbell recorded extensive lectures on Joyce, available from the [Joseph Campbell Foundation](https://www.jcf.org/):
+
+| Resource | Duration | Access |
+|----------|----------|--------|
+| *The Mythic Novels of James Joyce* (Esalen 1983) | 7+ hours | [JCF Shop](https://www.jcf.org/product-page/collected-audio-series-iii-volume-i-the-mythic-novels-of-james-joyce) |
+| 1951 James Joyce Society lecture | ~1 hour | Internet Archive / YouTube |
+| *Pathways with Joseph Campbell* podcast | Ongoing | [Spotify](https://open.spotify.com/show/6riuCXbAHE7WZeWL4ye6I0) (free) |
+
+See the dedicated [Joseph Campbell & Finnegans Wake](/docs/guides/joseph-campbell) guide for comprehensive resources.
 
 ### Concordances & Lexicons
 

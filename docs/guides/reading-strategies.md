@@ -8,9 +8,29 @@ description: Advanced approaches to reading Finnegans Wake
 
 Beyond first-time approaches, these strategies help deepen engagement with *Finnegans Wake*.
 
+## Campbell's Approach
+
+Joseph Campbell, co-author of *A Skeleton Key to Finnegans Wake* (1944), spent sixty years reading Joyce. His advice:
+
+> "Finnegans Wake is the dream of old Finn, lying in death beside the River Liffey and watching the history of Ireland and the world—past and future—flow through his mind like flotsam on the river of life."
+
+### Campbell's Five Keys
+
+1. **Read it as a dream** — Don't expect waking logic
+2. **Follow the cycles** — Vico's ages structure everything
+3. **Listen for the myth** — Universal patterns underlie the Irish story
+4. **Accept the comedy** — The Wake is fundamentally life-affirming
+5. **Read aloud** — The text was written for the ear
+
+Campbell's Esalen lectures (1983) and *Mythic Worlds, Modern Words* provide hours of detailed reading guidance.
+
+See the dedicated [Joseph Campbell & Finnegans Wake](/docs/guides/joseph-campbell) guide for full resources.
+
+---
+
 ## The Vico Road
 
-Joyce structured the Wake according to Giambattista Vico's cyclical theory of history. Understanding this framework provides a structural map:
+Joyce structured the Wake according to Giambattista Vico's cyclical theory of history. Understanding this framework provides a structural map—as Campbell and Robinson first demonstrated in *A Skeleton Key*:
 
 ### The Four Ages
 

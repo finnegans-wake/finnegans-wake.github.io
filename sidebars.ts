@@ -19,6 +19,7 @@ const sidebars: SidebarsConfig = {
       collapsed: true,
       items: [
         'guides/reading-strategies',
+        'guides/joseph-campbell',
         'guides/themes',
         'guides/structure',
         'guides/language',

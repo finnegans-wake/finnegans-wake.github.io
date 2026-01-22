@@ -44,6 +44,36 @@ A curated bibliography of essential and recommended works for *Finnegans Wake* s
 
 ---
 
+## Joseph Campbell's Joyce Works
+
+Campbell's writing on Joyce spans his entire career, from his 1941 obituary notice to lectures delivered shortly before his death in 1987.
+
+### Primary Works
+
+| Title | Author(s) | Year | Description |
+|-------|-----------|------|-------------|
+| *A Skeleton Key to Finnegans Wake* | Joseph Campbell & Henry Morton Robinson | 1944/2013 | First comprehensive guide; Vico interpretation |
+| *Mythic Worlds, Modern Words: On the Art of James Joyce* | Joseph Campbell (ed. Edmund L. Epstein) | 2004 | Collected essays and lectures |
+| *The Mythic Novels of James Joyce* | Joseph Campbell | 1983 | Esalen Institute lectures (7+ hours audio) |
+
+### Audio & Video Lectures
+
+| Title | Year | Duration | Source |
+|-------|------|----------|--------|
+| Esalen Institute lectures | 1983 | 7+ hours | [Joseph Campbell Foundation](https://www.jcf.org/product-page/collected-audio-series-iii-volume-i-the-mythic-novels-of-james-joyce) |
+| James Joyce Society lecture | 1951 | ~1 hour | Folkways Records / Internet Archive |
+| Pathways with Joseph Campbell | Ongoing | Varies | [Spotify](https://open.spotify.com/show/6riuCXbAHE7WZeWL4ye6I0) (free podcast) |
+
+### Articles
+
+- **"The Skin of Whose Teeth?"** (December 1942, *Saturday Review of Literature*)
+- **"The Skin of Whose Teeth? Part 2"** (February 1943, *Saturday Review of Literature*)
+- **Joyce obituary notice** (1941)
+
+See the dedicated [Joseph Campbell & Finnegans Wake](/docs/guides/joseph-campbell) guide for full details.
+
+---
+
 ## Major Scholarly Studies
 
 ### Book-Length Studies
