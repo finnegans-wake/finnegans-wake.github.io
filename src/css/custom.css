@@ -1,0 +1,179 @@
+/**
+ * Finnegans Wake theme - Dublin blues and literary gold
+ */
+
+:root {
+  /* Primary colors - deep Dublin blue */
+  --ifm-color-primary: #1e3a5f;
+  --ifm-color-primary-dark: #1a3354;
+  --ifm-color-primary-darker: #182f4f;
+  --ifm-color-primary-darkest: #132641;
+  --ifm-color-primary-light: #22416a;
+  --ifm-color-primary-lighter: #24456f;
+  --ifm-color-primary-lightest: #2a4f7d;
+
+  /* Accent - literary gold */
+  --ifm-color-secondary: #c9a227;
+
+  /* Code styling */
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(30, 58, 95, 0.1);
+
+  /* Link colors */
+  --ifm-link-color: #1e3a5f;
+
+  /* Navbar */
+  --ifm-navbar-background-color: #ffffff;
+  --ifm-navbar-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+
+  /* Footer */
+  --ifm-footer-background-color: #0f1d2f;
+
+  /* Typography */
+  --ifm-font-family-base: 'Georgia', 'Times New Roman', serif;
+  --ifm-heading-font-family: 'Georgia', 'Times New Roman', serif;
+}
+
+/* Dark mode */
+[data-theme='dark'] {
+  --ifm-color-primary: #7eb3e0;
+  --ifm-color-primary-dark: #62a3d8;
+  --ifm-color-primary-darker: #5499d4;
+  --ifm-color-primary-darkest: #2f7fc4;
+  --ifm-color-primary-light: #9ac3e8;
+  --ifm-color-primary-lighter: #a8cbec;
+  --ifm-color-primary-lightest: #c8def4;
+
+  --docusaurus-highlighted-code-line-bg: rgba(126, 179, 224, 0.2);
+  --ifm-link-color: #7eb3e0;
+  --ifm-navbar-background-color: #0f1d2f;
+  --ifm-footer-background-color: #0a1420;
+  --ifm-background-color: #141e2b;
+}
+
+/* Hero gradient - riverrun colors */
+.hero--primary {
+  background: linear-gradient(135deg, #1e3a5f 0%, #2c5282 50%, #1e3a5f 100%);
+}
+
+/* Hero title styling */
+.hero__title {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+}
+
+.hero__subtitle {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-style: italic;
+  opacity: 0.95;
+}
+
+/* Code blocks */
+.prism-code {
+  border-radius: 8px;
+}
+
+/* Tables */
+table {
+  display: table;
+  width: 100%;
+}
+
+table th {
+  background-color: rgba(30, 58, 95, 0.1);
+}
+
+[data-theme='dark'] table th {
+  background-color: rgba(126, 179, 224, 0.15);
+}
+
+/* Feature cards */
+.feature-card {
+  padding: 1.5rem;
+  border-radius: 12px;
+  background: linear-gradient(135deg, rgba(30, 58, 95, 0.05) 0%, rgba(30, 58, 95, 0.02) 100%);
+  border: 1px solid rgba(30, 58, 95, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.feature-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(30, 58, 95, 0.1);
+}
+
+[data-theme='dark'] .feature-card {
+  background: linear-gradient(135deg, rgba(126, 179, 224, 0.08) 0%, rgba(126, 179, 224, 0.02) 100%);
+  border: 1px solid rgba(126, 179, 224, 0.15);
+}
+
+[data-theme='dark'] .feature-card:hover {
+  box-shadow: 0 4px 12px rgba(126, 179, 224, 0.15);
+}
+
+/* Ecosystem stats */
+.ecosystem-stat {
+  text-align: center;
+  padding: 1rem;
+}
+
+.ecosystem-stat-number {
+  font-size: 2rem;
+  font-weight: bold;
+  color: var(--ifm-color-primary);
+}
+
+.ecosystem-stat-label {
+  font-size: 0.9rem;
+  color: var(--ifm-color-secondary-contrast-foreground);
+  opacity: 0.8;
+}
+
+/* Quote styling for Joyce excerpts */
+blockquote {
+  border-left: 4px solid var(--ifm-color-primary);
+  background: rgba(30, 58, 95, 0.03);
+  font-style: italic;
+  padding: 1rem 1.5rem;
+}
+
+[data-theme='dark'] blockquote {
+  background: rgba(126, 179, 224, 0.05);
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Resource links section */
+.resource-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.resource-card {
+  padding: 1.5rem;
+  border-radius: 8px;
+  background: var(--ifm-card-background-color);
+  border: 1px solid var(--ifm-color-emphasis-200);
+  transition: border-color 0.2s;
+}
+
+.resource-card:hover {
+  border-color: var(--ifm-color-primary);
+}
+
+/* Admonition styling */
+.alert--info {
+  --ifm-alert-background-color: rgba(30, 58, 95, 0.08);
+  --ifm-alert-border-color: var(--ifm-color-primary);
+}
+
+/* Navbar title font */
+.navbar__title {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-weight: 400;
+}
