@@ -26,6 +26,7 @@ const sidebars: SidebarsConfig = {
         'guides/structure',
         'guides/language',
         'guides/characters',
+        'guides/does-nobody-understand',
       ],
     },
     {
