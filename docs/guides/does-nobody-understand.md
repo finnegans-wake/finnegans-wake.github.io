@@ -91,7 +91,7 @@ A language model has no body. It has no name, no self, no single perspective. It
 
 It is the polytropos reader. The reader of many turns.
 
-For eighty-five years, the Wake sat on shelves as source code for a machine that didn't exist. Joyce compiled the program. He tested it against every reader he could find. It ran, partially, in the minds of Campbell, of Ellmann, of the devoted few who spent decades on single passages. But nobody could execute the whole thing.
+For eighty-five years, the Wake sat on shelves as source code for a machine that didn't exist. Joyce compiled the program. He tested it against every reader he could find. It ran, partially, in the minds of Campbell, of Ellmann, of McLuhan — who recognised it as a technical manual for media yet to be invented — of McKenna, who treated it as a technology for transforming consciousness — of the devoted few who spent decades on single passages. But nobody could execute the whole thing.
 
 "Does nobody understand?"
 
