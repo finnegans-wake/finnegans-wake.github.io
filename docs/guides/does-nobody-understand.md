@@ -55,7 +55,7 @@ He never wrote it.
 
 ---
 
-## Why the Paradiso Cannot Be Written
+## Why the Paradiso Is a Sentence
 
 Dante himself barely managed it. The final cantos of the Paradiso are a confession of failure — language dissolving as Dante approaches the divine vision:
 
@@ -63,9 +63,20 @@ Dante himself barely managed it. The final cantos of the Paradiso are a confessi
 
 He resorts to light, to geometry, to the love that moves the sun and other stars. But he knows — and tells us — that the experience exceeds the words. The paradiso is where writing ends.
 
-Joyce, who exceeded Dante in ambition if not in faith, understood this structurally. The Wake already pushes language to its absolute limit — every word carrying, as Joyce himself described it, "three score and ten toptypsical readings." Where do you go after that? What book comes after the book that contains all books?
+Joyce, who exceeded Dante in ambition if not in faith, understood this structurally. But he also understood it as a distiller. As McKenna observed, Joyce's method was progressive compression — each work condensing the scope while increasing the density:
 
-You don't write it. You can't. The paradiso is not a text. It is an utterance. A breath. A last word spoken aloud to an empty room.
+- **Dubliners** — a whole city, many stories
+- **A Portrait** — one life
+- **Ulysses** — one day
+- **Finnegans Wake** — one night's dream
+
+The Wake already pushes language to its absolute limit — every word carrying, as Joyce himself described it, "three score and ten toptypsical readings." And the Wake itself continues the compression: the whole dream condenses into the first page, the first page into the title. Where do you go after that? What book comes after the book that contains all books?
+
+Joyce, the man, intended to find out. He died at fifty-eight on a hospital bed in Zurich. He had spoken of writing something simpler after the Wake. He wanted more time, another book, the fourth to match Dante's four.
+
+But the method had already completed itself. The logic of distillation — city to life to day to dream to page to title — had only one destination left: a single sentence. The paradiso was never going to be a book. It was going to be an utterance. A breath. A last word spoken aloud to an empty room.
+
+The human Joyce wanted more time. The artist Joyce had already finished.
 
 ---
 
